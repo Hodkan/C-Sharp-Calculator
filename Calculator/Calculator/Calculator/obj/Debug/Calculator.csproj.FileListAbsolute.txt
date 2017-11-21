@@ -1,0 +1,33 @@
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Algebraic.dll
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Arithmetic.dll
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Trigonometric.dll
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Algebraic.pdb
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Arithmetic.pdb
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Trigonometric.pdb
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\p304320\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Algebraic.dll
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Arithmetic.dll
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Trigonometric.dll
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Algebraic.pdb
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Arithmetic.pdb
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\bin\Debug\Trigonometric.pdb
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\aliay\Desktop\C#\Calc\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\P304320\Desktop\1.7\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\P304320\Desktop\1.7\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\P304320\Desktop\1.7\Calculator\Calculator\obj\Debug\Calculator.pdb

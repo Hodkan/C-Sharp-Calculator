@@ -1,0 +1,10 @@
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\Arithmetic\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\aliay\Desktop\C#\Calc\Arithmetic\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\aliay\Desktop\C#\Calc\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\aliay\Desktop\C#\Calc\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache
+C:\Users\aliay\Desktop\C#\Calc\Arithmetic\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\aliay\Desktop\C#\Calc\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojResolveAssemblyReference.cache

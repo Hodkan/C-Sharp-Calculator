@@ -1,0 +1,10 @@
+c:\users\p304320\documents\visual studio 2015\Projects\Trigonometric\Trigonometric\bin\Debug\Trigonometric.dll
+c:\users\p304320\documents\visual studio 2015\Projects\Trigonometric\Trigonometric\bin\Debug\Trigonometric.pdb
+c:\users\p304320\documents\visual studio 2015\Projects\Trigonometric\Trigonometric\obj\Debug\Trigonometric.dll
+c:\users\p304320\documents\visual studio 2015\Projects\Trigonometric\Trigonometric\obj\Debug\Trigonometric.pdb
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\Trigonometric\Trigonometric\obj\Debug\Trigonometric.csprojResolveAssemblyReference.cache
+C:\Users\aliay\Desktop\C#\Calc\Trigonometric\Trigonometric\bin\Debug\Trigonometric.dll
+C:\Users\aliay\Desktop\C#\Calc\Trigonometric\Trigonometric\bin\Debug\Trigonometric.pdb
+C:\Users\aliay\Desktop\C#\Calc\Trigonometric\Trigonometric\obj\Debug\Trigonometric.csprojResolveAssemblyReference.cache
+C:\Users\aliay\Desktop\C#\Calc\Trigonometric\Trigonometric\obj\Debug\Trigonometric.dll
+C:\Users\aliay\Desktop\C#\Calc\Trigonometric\Trigonometric\obj\Debug\Trigonometric.pdb

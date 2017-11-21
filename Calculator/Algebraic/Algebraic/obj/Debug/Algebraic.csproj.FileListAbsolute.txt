@@ -1,0 +1,10 @@
+c:\users\p304320\documents\visual studio 2015\Projects\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+c:\users\p304320\documents\visual studio 2015\Projects\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+c:\users\p304320\documents\visual studio 2015\Projects\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+c:\users\p304320\documents\visual studio 2015\Projects\Algebraic\Algebraic\obj\Debug\Algebraic.pdb
+C:\Users\P304320\Documents\Visual Studio 2015\Projects\Algebraic\Algebraic\obj\Debug\Algebraic.csprojResolveAssemblyReference.cache
+C:\Users\aliay\Desktop\C#\Calc\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\aliay\Desktop\C#\Calc\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\aliay\Desktop\C#\Calc\Algebraic\Algebraic\obj\Debug\Algebraic.csprojResolveAssemblyReference.cache
+C:\Users\aliay\Desktop\C#\Calc\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\aliay\Desktop\C#\Calc\Algebraic\Algebraic\obj\Debug\Algebraic.pdb
